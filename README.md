@@ -19,6 +19,6 @@ Supports 4 Modes of play -
 Write the following commands in a terminal ( with working directory the same as cloned one )
 
 - javac Tic_Tac_Toe.java
-- java Tic_Tac_toe
+- java Tic_Tac_Toe
 
 Requires jre (>=1.8.0) for best running.
