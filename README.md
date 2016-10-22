@@ -8,7 +8,7 @@ Supports 4 Modes of play -
 - User vs CPU (Random turns maker)
 - AI vs CPU
 
-# Great for 
+# Great for
 
 - passing free time
 - learning the basic swing implementations
